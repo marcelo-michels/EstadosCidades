@@ -1,3 +1,6 @@
-Script SQL com Estados e Cidades
 
-27 Estados e 5.565 Cidades
+SQL: Script SQL com Estados e Cidades do Brasil
+
+NoSQL: arquivos json com todas as regiões, estados, mesorregiões, microrregiões e cidades do Brasil
+
+
